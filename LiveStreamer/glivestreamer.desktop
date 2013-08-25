@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=gLiveStreamer
+GenericName=Live Stream Client
+Comment=Watch and save live streams.
+Exec=glivestreamer
+Icon=gnome-mplayer
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;MediaPlayer;
