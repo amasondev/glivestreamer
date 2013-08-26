@@ -8,7 +8,7 @@
       <File FileName="LiveStreamer/OpenURLWindow.cs" Line="18" Column="48" />
       <File FileName="LiveStreamer/EditPlayerWindow.cs" Line="50" Column="3" />
       <File FileName="LiveStreamer/AboutWindow.cs" Line="11" Column="18" />
-      <File FileName="LiveStreamer/CommandEntryWindow.cs" Line="1" Column="1" />
+      <File FileName="LiveStreamer/CommandEntryWindow.cs" Line="14" Column="37" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.Debugger.WatchPad">

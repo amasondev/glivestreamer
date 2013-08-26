@@ -1,4 +1,4 @@
-gLiveStreamer is a GTK+ frontend for the livestreamer: http://livestreamer.tanuki.se/
+gLiveStreamer is a GTK+ frontend for livestreamer: http://livestreamer.tanuki.se/
 
 Installation
 =============
