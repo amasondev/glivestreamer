@@ -6,9 +6,10 @@ Installation
 * rtmpdump
 * python-setuptools
 * mono
+* gtk-sharp2
 
 ###Install Livestreamer:
-    git clone git://github.com/chrippa/livestreamer.git && cd livestreamer && python setup.py install
+    git clone git://github.com/chrippa/livestreamer.git && cd livestreamer && sudo python setup.py install
 
 ###Run gLiveStreamer:
     mono gLiveStreamer.exe
