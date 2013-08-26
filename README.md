@@ -8,9 +8,7 @@ python-setuptools
 mono
 
 Install Livestreamer:
-git clone git://github.com/chrippa/livestreamer.git
-cd livestreamer
-python setup.py install
+git clone git://github.com/chrippa/livestreamer.git && cd livestreamer && python setup.py install
 
 Run gLiveStreamer:
 mono gLiveStreamer.exe
